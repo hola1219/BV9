@@ -1,0 +1,64 @@
+KEGG_A_class	KEGG_B_class	Pathway	out (44)	All (935)	Pvalue	Qvalue	Pathway ID	Genes	K_IDs
+Environmental Information Processing	Signal transduction	Two-component system	11	85	0.001154854	0.0727558	ko02020	NMEGODCG_00806;NMEGODCG_00973;NMEGODCG_00987;NMEGODCG_01334;NMEGODCG_01373;NMEGODCG_01481;NMEGODCG_01644;NMEGODCG_02578;NMEGODCG_02586;NMEGODCG_02922;NMEGODCG_02949	K23514+K23514+K07636+K07672+K23514+K23514+K07165+K02313+K25213+K01915+K12340
+Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis	5	22	0.002653844	0.08359609	ko00521	NMEGODCG_00075;NMEGODCG_00185;NMEGODCG_00493;NMEGODCG_01164;NMEGODCG_03804	K01790+K01790+K01835+K01092+K00844
+Metabolism	Global and overview maps	Microbial metabolism in diverse environments	12	143	0.02609008	0.45336926	ko01120	NMEGODCG_00493;NMEGODCG_01318;NMEGODCG_01939;NMEGODCG_02319;NMEGODCG_02390;NMEGODCG_02427;NMEGODCG_02915;NMEGODCG_02922;NMEGODCG_02983;NMEGODCG_03110;NMEGODCG_03341;NMEGODCG_03804	K01835+K01610+K01689+K01785+K00262+K00928+K22230+K01915+K00297+K01808+K01607+K00844
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	2	6	0.02878535	0.45336926	ko00562	NMEGODCG_01164;NMEGODCG_02915	K01092+K22230
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	5	42	0.0423133	0.53314758	ko00010	NMEGODCG_00493;NMEGODCG_01318;NMEGODCG_01939;NMEGODCG_02319;NMEGODCG_03804	K01835+K01610+K01689+K01785+K00844
+Metabolism	Global and overview maps	Degradation of aromatic compounds	1	2	0.09195113	0.6829991	ko01220	NMEGODCG_03341	K01607
+Metabolism	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis	2	12	0.1058994	0.6829991	ko00523	NMEGODCG_00075;NMEGODCG_00185	K01790+K01790
+Metabolism	Global and overview maps	Biosynthesis of secondary metabolites	17	272	0.1059643	0.6829991	ko01110	NMEGODCG_00075;NMEGODCG_00185;NMEGODCG_00215;NMEGODCG_00476;NMEGODCG_00493;NMEGODCG_01164;NMEGODCG_01318;NMEGODCG_01344;NMEGODCG_01628;NMEGODCG_01939;NMEGODCG_02308;NMEGODCG_02319;NMEGODCG_02427;NMEGODCG_02911;NMEGODCG_02984;NMEGODCG_03110;NMEGODCG_03804	K01790+K01790+K00981+K14155+K01835+K01092+K01610+K02078+K05349+K01689+K03527+K01785+K00928+K00764+K00826+K01808+K00844
+Metabolism	Lipid metabolism	Glycerophospholipid metabolism	2	13	0.1215195	0.6829991	ko00564	NMEGODCG_00215;NMEGODCG_01008	K00981+K06131
+Metabolism	Biosynthesis of other secondary metabolites	Biosynthesis of various antibiotics	1	3	0.1347744	0.6829991	ko00998	NMEGODCG_01344	K02078
+Metabolism	Energy metabolism	Nitrogen metabolism	2	14	0.1376705	0.6829991	ko00910	NMEGODCG_02390;NMEGODCG_02922	K00262+K01915
+Metabolism	Carbohydrate metabolism	Galactose metabolism	3	30	0.1632262	0.6829991	ko00052	NMEGODCG_00493;NMEGODCG_02319;NMEGODCG_03804	K01835+K01785+K00844
+Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms	2	16	0.1712446	0.6829991	ko00710	NMEGODCG_01318;NMEGODCG_03110	K01610+K01808
+Metabolism	Lipid metabolism	Fatty acid degradation	1	4	0.175622	0.6829991	ko00071	NMEGODCG_02623	K01897
+Metabolism	Xenobiotics biodegradation and metabolism	Benzoate degradation	1	4	0.175622	0.6829991	ko00362	NMEGODCG_03341	K01607
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	3	32	0.1870896	0.6829991	ko00270	NMEGODCG_00476;NMEGODCG_02427;NMEGODCG_02984	K14155+K00928+K00826
+Metabolism	Amino acid metabolism	Arginine biosynthesis	2	17	0.1885226	0.6829991	ko00220	NMEGODCG_02390;NMEGODCG_02922	K00262+K01915
+Environmental Information Processing	Membrane transport	Bacterial secretion system	2	18	0.2060407	0.6829991	ko03070	NMEGODCG_02949;NMEGODCG_03001	K12340+K03116
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	3	35	0.2244794	0.6829991	ko00500	NMEGODCG_00493;NMEGODCG_01628;NMEGODCG_03804	K01835+K05349+K00844
+Metabolism	Amino acid metabolism	"Alanine, aspartate and glutamate metabolism"	3	36	0.2372817	0.6829991	ko00250	NMEGODCG_02390;NMEGODCG_02911;NMEGODCG_02922	K00262+K00764+K01915
+Organismal Systems	Immune system	NOD-like receptor signaling pathway	1	6	0.2517425	0.6829991	ko04621	NMEGODCG_03309	K03671
+Genetic Information Processing	Replication and repair	Homologous recombination	2	21	0.2594677	0.6829991	ko03440	NMEGODCG_01205;NMEGODCG_03663	K03655+K02340
+Metabolism	Biosynthesis of other secondary metabolites	"Neomycin, kanamycin and gentamicin biosynthesis"	1	7	0.287182	0.6829991	ko00524	NMEGODCG_03804	K00844
+Metabolism	Biosynthesis of other secondary metabolites	Biosynthesis of various plant secondary metabolites	1	7	0.287182	0.6829991	ko00999	NMEGODCG_01628	K05349
+Metabolism	Nucleotide metabolism	Purine metabolism	3	41	0.3029245	0.6829991	ko00230	NMEGODCG_00493;NMEGODCG_02579;NMEGODCG_02911	K01835+K00525+K00764
+Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	2	24	0.3132005	0.6829991	ko01210	NMEGODCG_02427;NMEGODCG_02984	K00928+K00826
+Metabolism	Biosynthesis of other secondary metabolites	Monobactam biosynthesis	1	8	0.3209794	0.6829991	ko00261	NMEGODCG_02427	K00928
+Metabolism	Amino acid metabolism	"Valine, leucine and isoleucine degradation"	1	8	0.3209794	0.6829991	ko00280	NMEGODCG_02984	K00826
+Metabolism	Metabolism of other amino acids	Selenocompound metabolism	1	8	0.3209794	0.6829991	ko00450	NMEGODCG_00476	K14155
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	2	26	0.3486716	0.6829991	ko00030	NMEGODCG_00493;NMEGODCG_03110	K01835+K01808
+Organismal Systems	Environmental adaptation	Plant-pathogen interaction	1	9	0.3532091	0.6829991	ko04626	NMEGODCG_02949	K12340
+Metabolism	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis	3	45	0.3562957	0.6829991	ko00541	NMEGODCG_00072;NMEGODCG_00075;NMEGODCG_00185	K00012+K01790+K01790
+Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism	1	10	0.3839421	0.6829991	ko00053	NMEGODCG_00072	K00012
+Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism	1	10	0.3839421	0.6829991	ko00460	NMEGODCG_01628	K05349
+Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	1	10	0.3839421	0.6829991	ko00900	NMEGODCG_02308	K03527
+Metabolism	Global and overview maps	Carbon metabolism	5	87	0.3902852	0.6829991	ko01200	NMEGODCG_01318;NMEGODCG_01939;NMEGODCG_02983;NMEGODCG_03110;NMEGODCG_03804	K01610+K01689+K00297+K01808+K00844
+Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism	2	31	0.4344566	0.69291964	ko00051	NMEGODCG_03110;NMEGODCG_03804	K01808+K00844
+Metabolism	Global and overview maps	Biosynthesis of amino acids	6	112	0.4349435	0.69291964	ko01230	NMEGODCG_00476;NMEGODCG_01939;NMEGODCG_02427;NMEGODCG_02922;NMEGODCG_02984;NMEGODCG_03110	K14155+K01689+K00928+K01915+K00826+K01808
+Metabolism	Amino acid metabolism	"Valine, leucine and isoleucine biosynthesis"	1	12	0.4411871	0.69291964	ko00290	NMEGODCG_02984	K00826
+Cellular Processes	Cell growth and death	Cell cycle - Caulobacter	1	12	0.4411871	0.69291964	ko04112	NMEGODCG_02578	K02313
+Environmental Information Processing	Membrane transport	ABC transporters	2	32	0.4509477	0.69291964	ko02010	NMEGODCG_00912;NMEGODCG_02667	K02037+K02000
+Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate	1	14	0.4932227	0.70876537	ko00670	NMEGODCG_02983	K00297
+Genetic Information Processing	"Folding, sorting and degradation"	Protein export	1	15	0.5174335	0.70876537	ko03060	NMEGODCG_03001	K03116
+Metabolism	Amino acid metabolism	Lysine biosynthesis	1	16	0.5405128	0.70876537	ko00300	NMEGODCG_02427	K00928
+Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	1	17	0.5625122	0.70876537	ko00040	NMEGODCG_00072	K00012
+Metabolism	Lipid metabolism	Fatty acid biosynthesis	1	17	0.5625122	0.70876537	ko00061	NMEGODCG_02623	K01897
+Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	1	17	0.5625122	0.70876537	ko00770	NMEGODCG_02984	K00826
+Metabolism	Global and overview maps	Fatty acid metabolism	1	17	0.5625122	0.70876537	ko01212	NMEGODCG_02623	K01897
+Genetic Information Processing	Replication and repair	DNA replication	1	17	0.5625122	0.70876537	ko03030	NMEGODCG_03663	K02340
+Genetic Information Processing	Replication and repair	Mismatch repair	1	17	0.5625122	0.70876537	ko03430	NMEGODCG_03663	K02340
+Genetic Information Processing	"Folding, sorting and degradation"	RNA degradation	1	18	0.5834811	0.72077077	ko03018	NMEGODCG_01939	K01689
+Metabolism	Metabolism of cofactors and vitamins	Porphyrin metabolism	1	20	0.6225142	0.7541999	ko00860	NMEGODCG_03619	K02190
+Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle)	1	21	0.6406665	0.76154697	ko00020	NMEGODCG_01318	K01610
+Metabolism	Energy metabolism	Methane metabolism	1	22	0.6579649	0.76762572	ko00680	NMEGODCG_01939	K01689
+Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	3	75	0.7028027	0.79326	ko00520	NMEGODCG_00072;NMEGODCG_00493;NMEGODCG_03804	K00012+K01835+K00844
+Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	1	25	0.70512	0.79326	ko00630	NMEGODCG_02922	K01915
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing	1	26	0.7193779	0.79510189	ko02024	NMEGODCG_02623	K01897
+Metabolism	Amino acid metabolism	"Glycine, serine and threonine metabolism"	1	27	0.7329614	0.79614773	ko00260	NMEGODCG_02427	K00928
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes	1	29	0.7582283	0.80963361	ko00720	NMEGODCG_02983	K00297
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism	1	32	0.7918056	0.8247016	ko00240	NMEGODCG_02579	K00525
+Metabolism	Global and overview maps	Metabolic pathways	27	619	0.805804	0.8247016	ko01100	NMEGODCG_00072;NMEGODCG_00075;NMEGODCG_00185;NMEGODCG_00215;NMEGODCG_00476;NMEGODCG_00493;NMEGODCG_01008;NMEGODCG_01164;NMEGODCG_01318;NMEGODCG_01344;NMEGODCG_01628;NMEGODCG_01939;NMEGODCG_02308;NMEGODCG_02319;NMEGODCG_02390;NMEGODCG_02427;NMEGODCG_02579;NMEGODCG_02623;NMEGODCG_02911;NMEGODCG_02915;NMEGODCG_02922;NMEGODCG_02983;NMEGODCG_02984;NMEGODCG_03110;NMEGODCG_03341;NMEGODCG_03619;NMEGODCG_03804	K00012+K01790+K01790+K00981+K14155+K01835+K06131+K01092+K01610+K02078+K05349+K01689+K03527+K01785+K00262+K00928+K00525+K01897+K00764+K22230+K01915+K00297+K00826+K01808+K01607+K02190+K00844
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism	1	34	0.8116111	0.8247016	ko00620	NMEGODCG_01318	K01610
+Genetic Information Processing	Translation	Ribosome	1	53	0.927951	0.927951	ko03010	NMEGODCG_01277	K02956

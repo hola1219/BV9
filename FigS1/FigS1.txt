@@ -1,0 +1,301 @@
+Time	Diet	Value
+D1	Normal Diet with probiotic	0.3497014
+D1	Normal Diet with probiotic	0.43740704
+D1	Normal Diet with probiotic	0.46418927
+D1	Normal Diet with probiotic	0.4182132
+D1	Normal Diet with probiotic	0.25082753
+D1	Normal Diet with probiotic	0.38195621
+D1	Normal Diet with probiotic	0.22929802
+D1	Normal Diet with probiotic	0.18844616
+D1	Normal Diet with probiotic	0.23950599
+D1	Normal Diet with probiotic	0.30205447
+D1	Normal Diet with probiotic	0.2992403
+D1	Normal Diet with probiotic	0.35053914
+D1	Normal Diet with probiotic	0.15841244
+D1	Normal Diet with probiotic	0.33960217
+D1	Normal Diet with probiotic	0.2926633
+D11	Normal Diet with probiotic	0.486982374
+D11	Normal Diet with probiotic	0.4248726
+D11	Normal Diet with probiotic	0.409165159
+D11	Normal Diet with probiotic	0.2819668
+D11	Normal Diet with probiotic	0.229710739
+D11	Normal Diet with probiotic	0.653405048
+D11	Normal Diet with probiotic	0.259730663
+D11	Normal Diet with probiotic	0.298995495
+D11	Normal Diet with probiotic	0.407212041
+D11	Normal Diet with probiotic	0.5546978
+D11	Normal Diet with probiotic	0.475602448
+D11	Normal Diet with probiotic	0.480645774
+D11	Normal Diet with probiotic	0.194453
+D11	Normal Diet with probiotic	0.354853032
+D11	Normal Diet with probiotic	0.301594865
+D14	Normal Diet with probiotic	0.6965223
+D14	Normal Diet with probiotic	0.6435319
+D14	Normal Diet with probiotic	0.686662931
+D14	Normal Diet with probiotic	0.59551058
+D14	Normal Diet with probiotic	0.6850272
+D14	Normal Diet with probiotic	0.408732141
+D14	Normal Diet with probiotic	0.2738058
+D14	Normal Diet with probiotic	0.298753495
+D14	Normal Diet with probiotic	0.339642634
+D14	Normal Diet with probiotic	0.3187793
+D14	Normal Diet with probiotic	0.363852905
+D14	Normal Diet with probiotic	0.419273342
+D14	Normal Diet with probiotic	0.128885256
+D14	Normal Diet with probiotic	0.3329634
+D14	Normal Diet with probiotic	0.386957408
+D21	Normal Diet with probiotic	0.59571156
+D21	Normal Diet with probiotic	0.403119
+D21	Normal Diet with probiotic	0.60134158
+D21	Normal Diet with probiotic	0.652973717
+D21	Normal Diet with probiotic	0.579455321
+D21	Normal Diet with probiotic	0.349185035
+D21	Normal Diet with probiotic	0.219676783
+D21	Normal Diet with probiotic	0.214362361
+D21	Normal Diet with probiotic	0.263788463
+D21	Normal Diet with probiotic	0.300517865
+D21	Normal Diet with probiotic	0.378049831
+D21	Normal Diet with probiotic	0.317040534
+D21	Normal Diet with probiotic	0.2592143
+D21	Normal Diet with probiotic	0.2451595
+D21	Normal Diet with probiotic	0.333180967
+D28	Normal Diet with probiotic	0.679469384
+D28	Normal Diet with probiotic	0.577968537
+D28	Normal Diet with probiotic	0.62229
+D28	Normal Diet with probiotic	0.740215865
+D28	Normal Diet with probiotic	0.6779866
+D28	Normal Diet with probiotic	0.195326959
+D28	Normal Diet with probiotic	0.263333089
+D28	Normal Diet with probiotic	0.234727677
+D28	Normal Diet with probiotic	0.215487082
+D28	Normal Diet with probiotic	0.316104529
+D28	Normal Diet with probiotic	0.2672243
+D28	Normal Diet with probiotic	0.206171702
+D28	Normal Diet with probiotic	0.275090009
+D28	Normal Diet with probiotic	0.30160343
+D28	Normal Diet with probiotic	0.299723305
+D1	Fiber Diet with probiotic	0.305891965
+D1	Fiber Diet with probiotic	0.387670361
+D1	Fiber Diet with probiotic	0.223656461
+D1	Fiber Diet with probiotic	0.267953763
+D1	Fiber Diet with probiotic	0.215551239
+D1	Fiber Diet with probiotic	0.346271133
+D1	Fiber Diet with probiotic	0.29590073
+D1	Fiber Diet with probiotic	0.244635324
+D1	Fiber Diet with probiotic	0.3300937
+D1	Fiber Diet with probiotic	0.459744427
+D1	Fiber Diet with probiotic	0.187090241
+D1	Fiber Diet with probiotic	0.501502375
+D1	Fiber Diet with probiotic	0.364307736
+D1	Fiber Diet with probiotic	0.1418099
+D1	Fiber Diet with probiotic	0.3756577
+D11	Fiber Diet with probiotic	0.2985096
+D11	Fiber Diet with probiotic	0.479010226
+D11	Fiber Diet with probiotic	0.093195219
+D11	Fiber Diet with probiotic	0.148090128
+D11	Fiber Diet with probiotic	0.157840858
+D11	Fiber Diet with probiotic	0.384688831
+D11	Fiber Diet with probiotic	0.372275274
+D11	Fiber Diet with probiotic	0.26879251
+D11	Fiber Diet with probiotic	0.266917163
+D11	Fiber Diet with probiotic	0.53037403
+D11	Fiber Diet with probiotic	0.405508519
+D11	Fiber Diet with probiotic	0.4629893
+D11	Fiber Diet with probiotic	0.175175159
+D11	Fiber Diet with probiotic	0.206196802
+D11	Fiber Diet with probiotic	0.143910186
+D14	Fiber Diet with probiotic	0.175598606
+D14	Fiber Diet with probiotic	0.169259625
+D14	Fiber Diet with probiotic	0.227055293
+D14	Fiber Diet with probiotic	0.443383428
+D14	Fiber Diet with probiotic	0.445613111
+D14	Fiber Diet with probiotic	0.1102643
+D14	Fiber Diet with probiotic	0.118074688
+D14	Fiber Diet with probiotic	0.474589747
+D14	Fiber Diet with probiotic	0.40383813
+D14	Fiber Diet with probiotic	0.0972393
+D14	Fiber Diet with probiotic	0.456931391
+D14	Fiber Diet with probiotic	0.457188873
+D14	Fiber Diet with probiotic	0.514336151
+D14	Fiber Diet with probiotic	0.488457526
+D14	Fiber Diet with probiotic	0.340655601
+D21	Fiber Diet with probiotic	0.164275042
+D21	Fiber Diet with probiotic	0.791654321
+D21	Fiber Diet with probiotic	0.825805883
+D21	Fiber Diet with probiotic	0.417640687
+D21	Fiber Diet with probiotic	0.179522541
+D21	Fiber Diet with probiotic	0.716506243
+D21	Fiber Diet with probiotic	0.718216986
+D21	Fiber Diet with probiotic	0.354180929
+D21	Fiber Diet with probiotic	0.156729084
+D21	Fiber Diet with probiotic	0.3873373
+D21	Fiber Diet with probiotic	0.505186424
+D21	Fiber Diet with probiotic	0.66701095
+D21	Fiber Diet with probiotic	0.626324919
+D21	Fiber Diet with probiotic	0.729426186
+D21	Fiber Diet with probiotic	0.314045437
+D28	Fiber Diet with probiotic	0.228127361
+D28	Fiber Diet with probiotic	0.742382213
+D28	Fiber Diet with probiotic	0.165629217
+D28	Fiber Diet with probiotic	0.1268983
+D28	Fiber Diet with probiotic	0.1098364
+D28	Fiber Diet with probiotic	0.686737131
+D28	Fiber Diet with probiotic	0.348800967
+D28	Fiber Diet with probiotic	0.300126335
+D28	Fiber Diet with probiotic	0.20221854
+D28	Fiber Diet with probiotic	0.79959811
+D28	Fiber Diet with probiotic	0.754476837
+D28	Fiber Diet with probiotic	0.685353047
+D28	Fiber Diet with probiotic	0.1599155
+D28	Fiber Diet with probiotic	0.2110305
+D28	Fiber Diet with probiotic	0.130829687
+D1	Fat Diet with probiotic	0.697930815
+D1	Fat Diet with probiotic	0.811152162
+D1	Fat Diet with probiotic	0.841657968
+D1	Fat Diet with probiotic	0.706862856
+D1	Fat Diet with probiotic	0.632757208
+D1	Fat Diet with probiotic	0.412650588
+D1	Fat Diet with probiotic	0.564191765
+D1	Fat Diet with probiotic	0.415152017
+D1	Fat Diet with probiotic	0.589162641
+D1	Fat Diet with probiotic	0.764995176
+D1	Fat Diet with probiotic	0.683259984
+D1	Fat Diet with probiotic	0.709341956
+D1	Fat Diet with probiotic	0.635554682
+D1	Fat Diet with probiotic	0.427857814
+D1	Fat Diet with probiotic	0.59895136
+D11	Fat Diet with probiotic	0.775677166
+D11	Fat Diet with probiotic	0.860080372
+D11	Fat Diet with probiotic	0.796184969
+D11	Fat Diet with probiotic	0.492759324
+D11	Fat Diet with probiotic	0.747156849
+D11	Fat Diet with probiotic	0.886056694
+D11	Fat Diet with probiotic	0.8324828
+D11	Fat Diet with probiotic	0.5539363
+D11	Fat Diet with probiotic	0.470423574
+D11	Fat Diet with probiotic	0.810539791
+D11	Fat Diet with probiotic	0.663776983
+D11	Fat Diet with probiotic	0.842108684
+D11	Fat Diet with probiotic	0.7282333
+D11	Fat Diet with probiotic	0.419533071
+D11	Fat Diet with probiotic	0.532119077
+D14	Fat Diet with probiotic	0.714918414
+D14	Fat Diet with probiotic	0.7320929
+D14	Fat Diet with probiotic	0.694410346
+D14	Fat Diet with probiotic	0.422282529
+D14	Fat Diet with probiotic	0.683099216
+D14	Fat Diet with probiotic	0.268306037
+D14	Fat Diet with probiotic	0.529131694
+D14	Fat Diet with probiotic	0.547319445
+D14	Fat Diet with probiotic	0.562693644
+D14	Fat Diet with probiotic	0.517735872
+D14	Fat Diet with probiotic	0.461962327
+D14	Fat Diet with probiotic	0.589976221
+D14	Fat Diet with probiotic	0.466038107
+D14	Fat Diet with probiotic	0.237983552
+D14	Fat Diet with probiotic	0.49763575
+D21	Fat Diet with probiotic	0.79474289
+D21	Fat Diet with probiotic	0.768936488
+D21	Fat Diet with probiotic	0.737117413
+D21	Fat Diet with probiotic	0.386669761
+D21	Fat Diet with probiotic	0.70454297
+D21	Fat Diet with probiotic	0.717355072
+D21	Fat Diet with probiotic	0.2694579
+D21	Fat Diet with probiotic	0.79022911
+D21	Fat Diet with probiotic	0.425404114
+D21	Fat Diet with probiotic	0.7508176
+D21	Fat Diet with probiotic	0.812048309
+D21	Fat Diet with probiotic	0.60053614
+D21	Fat Diet with probiotic	0.752377837
+D21	Fat Diet with probiotic	0.224104861
+D21	Fat Diet with probiotic	0.7425903
+D28	Fat Diet with probiotic	0.879337412
+D28	Fat Diet with probiotic	0.86898898
+D28	Fat Diet with probiotic	0.80964971
+D28	Fat Diet with probiotic	0.2313505
+D28	Fat Diet with probiotic	0.828720317
+D28	Fat Diet with probiotic	0.350307032
+D28	Fat Diet with probiotic	0.375190456
+D28	Fat Diet with probiotic	0.684781863
+D28	Fat Diet with probiotic	0.663921501
+D28	Fat Diet with probiotic	0.4764324
+D28	Fat Diet with probiotic	0.672242084
+D28	Fat Diet with probiotic	0.616373719
+D28	Fat Diet with probiotic	0.637272554
+D28	Fat Diet with probiotic	0.376582656
+D28	Fat Diet with probiotic	0.728190954
+D1	Control	0.212487139
+D1	Control	0.241829724
+D1	Control	0.243723638
+D1	Control	0.343167767
+D1	Control	0.254549525
+D1	Control	0.346604367
+D1	Control	0.171775183
+D1	Control	0.3193314
+D1	Control	0.373735069
+D1	Control	0.369202368
+D1	Control	0.361679404
+D1	Control	0.288652058
+D1	Control	0.3675218
+D1	Control	0.40822007
+D1	Control	0.346200102
+D11	Control	0.208630779
+D11	Control	0.359733732
+D11	Control	0.250658575
+D11	Control	0.25166985
+D11	Control	0.726993396
+D11	Control	0.487048974
+D11	Control	0.2707345
+D11	Control	0.245678675
+D11	Control	0.581875305
+D11	Control	0.472520374
+D11	Control	0.40282683
+D11	Control	0.789420642
+D11	Control	0.352575465
+D11	Control	0.773102157
+D11	Control	0.589468844
+D14	Control	0.2794246
+D14	Control	0.304542135
+D14	Control	0.229371939
+D14	Control	0.49965945
+D14	Control	0.276714936
+D14	Control	0.362738932
+D14	Control	0.227184339
+D14	Control	0.420902658
+D14	Control	0.147731343
+D14	Control	0.360562564
+D14	Control	0.473803479
+D14	Control	0.347960265
+D14	Control	0.53198917
+D14	Control	0.148247985
+D14	Control	0.46393028
+D21	Control	0.379266524
+D21	Control	0.340018798
+D21	Control	0.09875298
+D21	Control	0.369081926
+D21	Control	0.2225618
+D21	Control	0.466258753
+D21	Control	0.3800771
+D21	Control	0.2332961
+D21	Control	0.35140787
+D21	Control	0.376057362
+D21	Control	0.425758057
+D21	Control	0.39604854
+D21	Control	0.3700141
+D21	Control	0.230022146
+D21	Control	0.289553558
+D28	Control	0.518251948
+D28	Control	0.480591252
+D28	Control	0.123023156
+D28	Control	0.469302973
+D28	Control	0.3057775
+D28	Control	0.559866888
+D28	Control	0.522129824
+D28	Control	0.500941725
+D28	Control	0.275728572
+D28	Control	0.488465126
+D28	Control	0.539432723
+D28	Control	0.471612553
+D28	Control	0.471675347
+D28	Control	0.322172466
+D28	Control	0.505801375

@@ -1,0 +1,10 @@
+rm(list=ls())
+library(WGCNA)
+setwd("/Users/desktop")
+OTU <- read.csv("1.csv",header = T,row.names = 1)
+metaGeneCor.r <- cor(OTU,method="spearman")
+write.csv(metaGeneCor.r,file="cog.r.csv")
+nmeta=nrow(OTU)
+metaGeneCor.p <- corPvalueStudent(metaGeneCor.r, nmeta)
+write.csv(metaGeneCor.p,file = "cog.p.csv")
+
